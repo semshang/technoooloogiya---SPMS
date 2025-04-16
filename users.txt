@@ -1,0 +1,7 @@
+admin1,Aadan,admin
+student1,Bob,student
+sam,samual limuel,student
+ziri,ziri otto,student
+bob,bobbermon,student
+Shubham ,Shubham Rai,student
+Shubham,Shubham Rai,student
